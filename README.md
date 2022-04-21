@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hello there 👋
+
+📚 Currently learing `C++` <br>
+👨‍🔬 Working with `MATLAB` and `Python` <br>
+🤓 Fields of Interest: 
+- Automation and Control Theory 
+- Robotics 
+- Machine Learning
+- Optimization
+
+🚀 Current Projects 
+- `Collision Free Path Planning using Optimal Control` (bachelor thesis)
+- `DP-Solver for Collision free path planning in C++` 
 
 <!--
 **ahartlba/ahartlba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
