@@ -1,12 +1,13 @@
 ### Hello there 👋
 
 📚 Currently learing `C++` <br>
-👨‍🔬 Working with `MATLAB` and `Python` <br>
+👨‍🔬 Working with `MATLAB`, `Julia` and `Python` <br>
 🤓 Fields of Interest: 
 - Automation and Control Theory 
 - Robotics 
 - Machine Learning
 - Optimization
+- Data Analysis
 
 🚀 Current Projects 
 - `Collision Free Path Planning using Optimal Control` (bachelor thesis)
