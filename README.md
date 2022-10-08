@@ -10,8 +10,7 @@
 - Data Analysis
 
 🚀 Current Projects 
-- `Collision Free Path Planning using Optimal Control` (bachelor thesis)
-- `DP-Solver for Collision free path planning in C++` 
+- Python debugging tools library
 
 <!--
 **ahartlba/ahartlba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
