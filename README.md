@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 📚 Currently learing `C++` and `Rust` <br>
-👨‍🔬 Working with `MATLAB`, `Julia` and `Python` <br>
+👨‍🔬 Working with `MATLAB`, and `Python` <br>
 🤓 Fields of Interest: 
 - Automation and Control Theory 
 - Robotics 
@@ -10,7 +10,7 @@
 - Data Analysis
 
 🚀 Current Projects 
-- Python debugging tools library
+- Building AI-Tools
 
 <!--
 **ahartlba/ahartlba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
