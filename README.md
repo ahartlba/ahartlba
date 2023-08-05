@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-📚 Currently learing `C++` and `Rust` <br>
+📚 Currently learing `C++`.<br>
 👨‍🔬 Working with `MATLAB`, and `Python` <br>
 🤓 Fields of Interest: 
 - Automation and Control Theory 
