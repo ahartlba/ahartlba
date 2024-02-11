@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-📚 Currently learing `JAX`.<br>
+📚 Currently learing `Rust`.<br>
 👨‍🔬 Working with `MATLAB`, and `Python` <br>
 🤓 Fields of Interest: 
 - Automation and Control Theory 
