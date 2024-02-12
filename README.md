@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-📚 Currently learing `Rust`.<br>
+📚 Currently learing `Rust`🦀 and `Mojo`🔥.<br>
 👨‍🔬 Working with `MATLAB`, and `Python` <br>
 🤓 Fields of Interest: 
 - Automation and Control Theory 
